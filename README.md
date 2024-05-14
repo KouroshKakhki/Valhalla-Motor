@@ -2,23 +2,21 @@
 This a personal project for my resume
 
 ## Features:
-1. You can add cars
-   ![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/6fbd4d49-069f-4373-b2da-373caf6c1f3f)
-2. You can Edit/Delete the cars you've added
-   ![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/25a3c9fb-3bae-4a13-ad8e-e52dd72687ed)
-3. You can contact other sellers
-   ![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/ffd8f352-b67b-494a-bab2-5b13de3bd061)
-4. You can signup/login
-   ![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/6aa246c7-f47c-4fbe-a0d0-7dd7175a27df)
-   ![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/96b11fc4-ad5f-49ce-a518-8af1c7f72f3c)
+1. The First Page
+![Screenshot 2024-05-14 183913](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/8756ead7-241f-4f0b-b0d0-b7ce5417c3fd)
+2. You can add cars
+![Screenshot 2024-05-14 183928](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/de679212-61a7-42cd-be2f-5a74e11a3c80)
+3. You can Edit/Delete the cars you've added
+![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/103d7d31-e856-49ac-b0e9-f421c9977df7)
+4. You can contact other sellers
+![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/b9ab6e36-20d3-4c7d-847c-9fcf2b93fb7e)
+![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/ef471866-40c5-4b2f-831e-a1c4b5aba831)
+5. You can signup/login
+![Screenshot 2024-05-14 212444](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/75e3db2f-e687-4eec-a954-3a02417a2542)
+![Screenshot 2024-05-14 212455](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/f6165f95-907e-40c2-9904-e1d0d8fee948)
 6. You can see all the cars you have added in your dashboard
-   ![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/a16f1458-dc34-4d9b-b4d6-15246d075081)
+![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/d8e0ed4c-d9a9-433e-bf7b-3d6348ebef9a)
 7. You can check your inbox which includes your conversations with other sellers/buyers
-   ![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/7cccd64c-d377-4971-bc08-f172439fe8fc)
+![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/9e3f00bb-ed49-4bf6-b0c2-6f2f45d44b5e)
 8. You can browse cars by searching for name, also there is the category filtering option
-   ![image](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/47652eb0-9a2b-4dcb-a329-a10119128c93)
-
-
-
-
-
+![Screenshot 2024-05-14 183939](https://github.com/KouroshKakhki/Valhalla-Motor/assets/85429249/ed563846-7193-487d-914c-32d38d72a749)
