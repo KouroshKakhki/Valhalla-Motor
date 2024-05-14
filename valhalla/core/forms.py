@@ -37,3 +37,4 @@ class SignupForm(UserCreationForm):
         'placeholder': 'Confirm your password',
         'class': 'w-full py-4 px-6 rounded-xl'
     }))
+

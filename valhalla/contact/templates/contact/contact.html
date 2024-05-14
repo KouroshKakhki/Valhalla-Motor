@@ -1,0 +1,33 @@
+{% extends 'core/base.html' %}
+
+{% block title %}Content{% endblock %}
+
+{% block content %}
+    <h2>Contact Us</h2>
+
+    <form method="post" action="{% url 'contact:contact' %}">
+        {% csrf_token %}
+        '''
+        <div class="mb-3">
+            <label class="inline-block mb-2">Your username</label><br>
+            {{ form.username }}
+        </div>
+
+        <div class="mb-3">
+            <label class="inline-block mb-2">Your email</label><br>
+            {{ form.email }}
+        </div>
+        
+        <div class="mb-3">
+            <label class="inline-block mb-2">Your message</label><br>
+            {{ form.message }}
+        </div>
+        
+        <a>
+        <button type="submit">Submit</button>
+        </a>
+        <a class="text-center">
+            <p style="color: red; font-weight: 900;" class="text-3xl">!!! IT IS STILL UNDER DEVELOPMENT !!!</p>
+        </a>
+    </form>
+{% endblock %}
